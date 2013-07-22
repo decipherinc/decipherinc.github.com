@@ -12,6 +12,10 @@ Decipher's development department, besides creating proprietary software, often 
 
 A simple UI control to turn any text input into a "tagified" UI control. The value of the input will be split on the specified delimiter and create one tag for each item in the list.
 
+### [angular-reol](https://github.com/decipherinc/angular-reol/)
+
+Fork of [Reol.js](https://npmjs.org/package/reol) to AngularJS.  Reol.js is a node package and thus does not work client-side.
+
 ## Questions about Decipher Open Source Labs?
 
-Please direct all communication to @boneskull
+Please direct all communication to Dr. @boneskull, who manages the laboratory.
