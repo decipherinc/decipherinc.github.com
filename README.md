@@ -16,6 +16,18 @@ A simple UI control to turn any text input into a "tagified" UI control. The val
 
 Fork of [Reol.js](https://npmjs.org/package/reol) to AngularJS.  Reol.js is a node package and thus does not work client-side.
 
+### [angular-history](https://github.com/decipherinc/angular-history/)
+
+A history service for AngularJS. Undo/redo, that sort of thing. Has nothing to do with the "back" button, unless you want it to.
+
+### [angular-tipped](https://github.com/decipherinc/angular-tipped/)
+
+AngularJS directive to assist with using the [Tipped](http://projects.nickstakenburg.com/tipped) jQuery plugin from Nick Stakenburg.
+
+### [angular-tags](https://github.com/decipherinc/angular-tags/)
+
+Pure AngularJS tagging widget with typeahead support courtesy of [ui-bootstrap](http://angular-ui.github.io/bootstrap)
+
 ## Questions about Decipher Open Source Labs?
 
 Please direct all communication to Dr. @boneskull, who manages the laboratory.
