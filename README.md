@@ -24,7 +24,7 @@ A history service for AngularJS. Undo/redo, that sort of thing. Has nothing to d
 
 AngularJS directive to assist with using the [Tipped](http://projects.nickstakenburg.com/tipped) jQuery plugin from Nick Stakenburg.
 
-### [angular-tags](https://decipherinc.github.io/angular-tags/)
+### [angular-tags](http://decipherinc.github.io/angular-tags/)
 
 Pure AngularJS tagging widget with typeahead support courtesy of [ui-bootstrap](http://angular-ui.github.io/bootstrap)
 
