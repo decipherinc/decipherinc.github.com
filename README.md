@@ -8,7 +8,7 @@ Decipher's development department, besides creating proprietary software, often 
 
 ## Hosted Projects
 
-### [Tagify](http://decipherinc.github.com/tagify/)
+### [Tagify](http://decipherinc.github.io/tagify/)
 
 A simple UI control to turn any text input into a "tagified" UI control. The value of the input will be split on the specified delimiter and create one tag for each item in the list.
 
@@ -24,7 +24,7 @@ A history service for AngularJS. Undo/redo, that sort of thing. Has nothing to d
 
 AngularJS directive to assist with using the [Tipped](http://projects.nickstakenburg.com/tipped) jQuery plugin from Nick Stakenburg.
 
-### [angular-tags](https://github.com/decipherinc/angular-tags/)
+### [angular-tags](https://decipherinc.github.io/angular-tags/)
 
 Pure AngularJS tagging widget with typeahead support courtesy of [ui-bootstrap](http://angular-ui.github.io/bootstrap)
 
