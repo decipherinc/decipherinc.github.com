@@ -16,7 +16,7 @@ A simple UI control to turn any text input into a "tagified" UI control. The val
 
 Fork of [Reol.js](https://npmjs.org/package/reol) to AngularJS.  Reol.js is a node package and thus does not work client-side.
 
-### [angular-history](https://github.com/decipherinc/angular-history/)
+### [angular-history](https://decipherinc.gitrhub.io/angular-history/)
 
 A history service for AngularJS. Undo/redo, that sort of thing. Has nothing to do with the "back" button, unless you want it to.
 
